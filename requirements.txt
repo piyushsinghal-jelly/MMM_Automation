@@ -1,0 +1,7 @@
+# libraries to install
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+google-meridian
