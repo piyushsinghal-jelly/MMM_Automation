@@ -11,3 +11,9 @@ seaborn
 scikit-learn
 google-meridian
 streamlit
+
+# temp libraries
+PyYAML
+ensure
+python-box
+joblib 
