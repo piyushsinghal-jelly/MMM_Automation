@@ -1,4 +1,9 @@
 # libraries to install
+
+# jupyter libraries
+ipykernel
+jupyterlab
+jupyter
 pandas
 numpy
 matplotlib

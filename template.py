@@ -15,6 +15,12 @@ project_name = 'meridian_automation'
 # list the files to be created in the project directory
 list_of_files = [
     ".github/workflows/.gitkeep",
+    f"pages/1_Introduction.py",
+    f"pages//2_Data_Collection.py",
+    f"pages/3_Data_Validation.py",
+    f"pages/4_Channel_Aggregation..py",
+    f"pages/5_Statistical_Analysis.py",
+    f"pages/6_Model_Training.py",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utils/__init__.py",
