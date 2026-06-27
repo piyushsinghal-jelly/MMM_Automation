@@ -47,6 +47,7 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
     #     logger.error(f"Error occurred while reading yaml file {path_to_yaml}: {e}")
     #     raise ValueError(f"Error occurred while reading yaml file {path_to_yaml}: {e}")
 
+    # Have to check the Below Functionality 
     try :
         with open(path_to_yaml) as yaml_file:
             content = yaml.safe_load(yaml_file)
